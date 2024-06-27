@@ -6,7 +6,8 @@
 
 
 int main() {
-	printf("Now, heap is added in the project and uploaded to the git repository in the main branch.");
+	printf("CppSource version 0.1.\n");
+	printf("This version focuses only in single file compiling using all the GCC toolchain.\n");
 
 } // end of 'main'
 
