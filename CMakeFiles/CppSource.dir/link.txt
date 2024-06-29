@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/CppSource.dir/src/main.cpp.o -o CppSource  -lsrc 
