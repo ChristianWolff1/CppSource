@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Rental.dir/main.cpp.o cars/CMakeFiles/cars.dir/car.cpp.o -o Rental 
