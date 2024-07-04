@@ -11,7 +11,7 @@ int main(int argc, char* argv[]) {
 	printf("CppSource version 0.1.\n");
 	printf("This version focuses only in single file compiling using all the GCC toolchain.\n");
 	printf("Let's work obtaining the sum of the numbers A = %d and B = %d.\n", A, B);
-	printf("Sum: %d + %d = %d", A, B, res);
+	printf("Sum:\v%d + %d = %d\n", A, B, res);
 
 } // end of 'main'
 
